@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [...](...)
+- Live Site URL: [https://antoru-profile-card-component.netlify.app/](https://antoru-profile-card-component.netlify.app/)
 
 ## My process
 
